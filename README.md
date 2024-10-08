@@ -1,4 +1,4 @@
-# BILL GATES GAME
+# BILL GATES STORE APP
 This project simulates a simple store where Bill Gates starts with a balance of $100,000,000,000. Users can purchase and sell products, with the app adjusting Gates' balance accordingly. The application is designed to manage product purchases, sales, and display all transactions.
 
 # Live Link 
